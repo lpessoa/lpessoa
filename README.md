@@ -1,4 +1,8 @@
-### Hi there 👋
+### Wubba-lubba-dub-dub 👋
+
+- 🔭 full stack developer keen on cool new technologies
+- 🌱 I’m currently learning about real time data processing 
+- 💬 Love to chat about architectural decisions and new technologies of course
 
 <!--
 **lpessoa/lpessoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
