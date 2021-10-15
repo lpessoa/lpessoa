@@ -1,7 +1,8 @@
 ### Wubba-lubba-dub-dub 👋
 
 - 🔭 full stack developer keen on cool new technologies
-- 🌱 I’m currently learning about real time data processing 
+- 👯 I’m looking to collaborate on golang open source projects
+- 🌱 I’m currently learning about distributed databases like cockroach db.
 - 💬 Love to chat about architectural decisions and new technologies of course
 
 <!--
