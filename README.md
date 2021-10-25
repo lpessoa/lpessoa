@@ -1,21 +1,28 @@
-### Wubba-lubba-dub-dub 👋
+<p>
+  <h1 align="center"><b>Hello, I'm Luis 👋</h1>
+</p>
 
-- 🔭 full stack developer keen on cool new technologies
-- 👯 I’m looking to collaborate on golang open source projects
-- 🌱 I’m currently learning about distributed databases like cockroach db.
-- 💬 Love to chat about architectural decisions and new technologies of course
+<p align="center">
+  <a href="https://www.linkedin.com/in/pessoaluis/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://twitter.com/luisfpessoa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+</p>
 
-<!--
-**lpessoa/lpessoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  I'm a full stack developer keen on cool new technologies 🤖<br />
+  
+  On my spare time I like to collaborate on open source projects, especially the ones made in golang, thus my newly found interest on the awesome [CockroachDb](https://www.cockroachlabs.com/)<br />
+  
+  I also love to chat about architectural patterns, new technologies and old movies and series (yup Star Trek Next Generation is awesome 😄) <br />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/cockroachdb/cockroach"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=cockroachdb&repo=cockroach&theme=tokyonight" height="150" /></a>
+<a href="https://github.com/cli/cli"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=cli&repo=cli&theme=tokyonight" height="150"/></a>
+</p>
+
+<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lpessoa&theme=radical&show_icons=true" height=150/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpessoa&layout=compact&theme=radical" width="450" height=150 />
+</p>
