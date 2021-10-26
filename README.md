@@ -16,13 +16,14 @@
 </p>
 
 
-<p align="center">
-<a href="https://github.com/cockroachdb/cockroach"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=cockroachdb&repo=cockroach&theme=tokyonight" height="150" /></a>
-<a href="https://github.com/cli/cli"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=cli&repo=cli&theme=tokyonight" height="150"/></a>
-</p>
+<!--p align="center">
+  https://github.com/cockroachdb/cockroach
+<a href="https://github.com/cockroachdb/cockroach"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=cockroachdb&repo=cockroach&theme=tokyonight" width="400" /></a>
+<a href="https://github.com/cli/cli"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=cli&repo=cli&theme=tokyonight" width="400"/></a>
+</p-->
 
-<br />
+<!--br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lpessoa&theme=radical&show_icons=true" height=150/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpessoa&layout=compact&theme=radical" width="450" height=150 />
-</p>
+</p-->
