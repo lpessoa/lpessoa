@@ -10,7 +10,7 @@
 <p>
   I'm a full stack developer keen on cool new technologies 🤖<br />
   
-  On my spare time I like to collaborate on open source projects, especially the ones made in golang, thus my newly found interest on the awesome [CockroachDb](https://www.cockroachlabs.com/)<br />
+  On my spare time I like to collaborate on open source projects, especially the ones made in golang, thus my newly found interest on the awesome [CockroachDb](https://www.cockroachlabs.com/) and [Github CLI](https://cli.github.com/)<br />
   
   I also love to chat about architectural patterns, new technologies and old movies and series (yup Star Trek Next Generation is awesome 😄) <br />
 </p>
